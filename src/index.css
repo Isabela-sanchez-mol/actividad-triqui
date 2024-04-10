@@ -1,0 +1,14 @@
+body{
+  background-color: #355d91;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1{
+  color: whitesmoke;
+  font-weight: bolder;
+  font-size: 50px;
+  padding-left: 65px;
+}
